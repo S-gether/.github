@@ -4,8 +4,7 @@
   
 
 <p  align="center">
-<img  width="1000px"  height = "300px"  src='https://user-images.githubusercontent.com/111236793/212054463-d4fd811f-6622-4b2b-8393-8bdbb8897077.png
-'/>
+<img  width="1000px"  height = "300px"  src="https://user-images.githubusercontent.com/111236793/212054463-d4fd811f-6622-4b2b-8393-8bdbb8897077.png"/>
 </p>
 
  <p  align="center"><b>AI 감독관을 활용한 비대면 스터디 플랫폼</b></p>
