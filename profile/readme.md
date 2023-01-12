@@ -4,7 +4,7 @@
   
 
 <p  align="center">
-<img  width="900px"  height = "200px"  src='![Sgether](https://user-images.githubusercontent.com/111236793/212054463-d4fd811f-6622-4b2b-8393-8bdbb8897077.png)
+<img  width="100px"  height = "300px"  src='(https://user-images.githubusercontent.com/111236793/212054463-d4fd811f-6622-4b2b-8393-8bdbb8897077.png
 '/>
 </p>
 
