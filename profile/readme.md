@@ -1,5 +1,5 @@
 
-# Sgether with AI ( AI 감독 스터디 플폼 )
+# Sgether with AI ( AI 감독 스터디 플랫폼 )
 
   
 
