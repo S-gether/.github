@@ -95,6 +95,6 @@ AI 감독관을 도입해 문제를 해결
 
 ## 👪 팀 정보
 - 반영환 (lopahn2@gmail.com), Github Id: lopahn2 (Server, Database)
-- 김강민
-- 채홍무
-- 방재훈
+- 김강민 (rkdals0203@gmail.com), Github Id: rkdals0203 (APP Frontend)
+- 채홍무 (hongmuchae@gmail.com), Github Id: Hong-Mu (APP Frontend)
+- 방재훈 (dev.appendCBangJ@gmail.com), Github Id: devappendCBangJ (Deep Learning)
