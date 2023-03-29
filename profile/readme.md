@@ -80,7 +80,7 @@ AI 감독관을 도입해 문제를 해결
 |--|--|
 |**Android Studio**|v4.2|
 |**Figma**|web_service|
-|**webRTC**|google_service|
+|**webRTC**|open-source|
 
   
 
