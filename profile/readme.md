@@ -10,7 +10,7 @@
 
  <p  align="center"><b>AI Supervisor Remote Study Platform</b></p>
 
-However, Not all children can go to the class room in person.  
+Not all children can go to the class room in person.  
 They tend to lose their motivation because of  their isolated situation.  
 <br>
 
